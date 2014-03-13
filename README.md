@@ -1,4 +1,4 @@
 AkkaSupervisor
 ==============
 
-er fault tolerance lifecycle, supervision strategies demo
+fault tolerance lifecycle, supervision strategies demo
